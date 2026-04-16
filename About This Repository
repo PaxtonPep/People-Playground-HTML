@@ -1,0 +1,56 @@
+Ever been sitting in class thinking,
+“Bro… everything fun is blocked. What am I even supposed to do now”
+while the school is out here blocking literally everything?
+
+Yeah. Same.
+
+That’s why this repo exists.
+
+Ultimate‑Stash is my growing collection of games, tools, experiments, and random projects — 
+all organized into clean folders with full HTML, data‑URL versions, and shortened HTML. Everything here is built to be simple, fast, and easy to drop into whatever setup you’re using.
+
+---
+
+What’s inside
+
+•  Games (each with full HTML, data‑URL, and fetch versions)
+•  Show / media loaders
+•  A clean folder system so nothing is messy
+
+
+---
+
+How it works
+
+Every game folder includes:
+
+• Full‑HTML — the complete code
+• Data‑URL — compressed into a single line
+• Fetch‑HTML — tiny loader that pulls the full version from GitHub
+
+
+This makes everything easy to embed, load, or reuse.
+
+---
+
+Actively expanding
+
+I’m constantly adding:
+
+• new games
+• new tools
+• better organization
+• cleaner code
+• more folders
+
+
+If something looks empty, it’s probably because I’m working on it right now.
+
+---
+
+Contact
+
+If you want to suggest something, report an issue, or request a new addition:
+
+Email:
+peperzakpaxton06@gmail.com

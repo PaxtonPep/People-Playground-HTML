@@ -5,7 +5,7 @@
 <title>Loading…</title>
 <script>
 
-const url = "https://raw.githubusercontent.com/PaxtonPep/Ultimate-Stash/main/Games/HTML-to-Data-URL/Full-HTML";
+const url = "https://raw.githubusercontent.com/PaxtonPep/Ultimate-Stash/main/Tools/HTML-to-Data-URL/Full-HTML";
 
 fetch(url)
 .then(r => r.text())
